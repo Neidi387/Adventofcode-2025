@@ -1,5 +1,10 @@
 # Advent of Code 2025 - Setup Guide
 
+## Puzzles
+You'll find all puzzles at:
+https://adventofcode.com/2025/
+
+
 ## Prerequisites
 
 You need to have Node.js installed on your system. If you don't have it:
