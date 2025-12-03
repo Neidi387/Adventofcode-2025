@@ -5,5 +5,5 @@ import { fileURLToPath } from 'url';
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = dirname(__filename);
 const text = readFileSync(join(__dirname, 'input.txt'), 'utf-8');
-const lines = text.split('\n');
-export { lines as input };
+const array = text.split(''); // E.g. '\n' or ','
+export { array as input };
